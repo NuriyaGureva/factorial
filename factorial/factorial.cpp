@@ -40,7 +40,7 @@ int main()
     cout << "Введите степень n: ";
     cin >> n;
     cout << endl;
-    std::cout << "Результат: " <<power(a, n) << '\n';
+    cout << "Результат: " <<power(a, n) << '\n';
     return 0;
 
 }
